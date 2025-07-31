@@ -51,9 +51,9 @@ Gosto de construir soluções digitais que façam sentido e agreguem valor real 
 
 ## 📫 Contato
 
-- 🌐 [freitassolucoes.com.br](https://freitassolucoes.com.br)
+- 🌐 [rodrigofreitas.dev.br](https://rodrigofreitas.dev.br)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-dias-freitas)
-- 📧 contato@freitassolucoes.com.br
+- 📧 contato@rodrigofreitas.dev.br
 
 ---
 
